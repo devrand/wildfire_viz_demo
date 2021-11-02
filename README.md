@@ -6,4 +6,5 @@ Original script is here: https://pierre-markuse.net/2018/04/30/visualizing-wildf
 You need only *numpy & matplotlib* to run this demo
 
 
-Used in mass processing of images for a project about field fires (mainly due to stubble burning) in Ukraine by Texty.org.ua
+Used in mass processing of images for a project about field fires (mainly due to stubble burning) in Ukraine, by Texty.org.ua
+The project will be published in very short time
