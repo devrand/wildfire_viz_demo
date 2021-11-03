@@ -10,4 +10,4 @@ Used in mass processing of images for a project about field fires (mainly due to
 The project is here: https://texty.org.ua/projects/104757/v-ukrayini-shoroku-blyzko-30-tysyach-pozhezh-yak-vony-vyhlyadayut-iz-kosmosu/
 Right now it's in Ukrainian only, but with many interesting pictures:
 
-![Example images of burning fields](example_row.png)
+![Example images of burning fields](results_row.png)
